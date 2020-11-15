@@ -24,4 +24,6 @@
 ### git clone URL
 ### git add .
 ### git commit -m "Message"
-### git push 
+### git push
+### git checkout -b "name of the branch"
+ 
