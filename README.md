@@ -7,7 +7,7 @@
 ## Service page - Bindu & Soren
 ## Contact Page - Bijoy, Roktim & Rest of the group 
 
-Git Commands:
+# Git Commands:
 
 ### cd - change directory
 ### mkdir - create folder/ directory
@@ -15,7 +15,7 @@ Git Commands:
 ### ls - SHow list
 ### 
 
-GitHub:
+# Commands to push code into GitHub:
 ### git clone URL
 ### git add .
 ### git commit -m "Message"
